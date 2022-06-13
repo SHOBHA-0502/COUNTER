@@ -1,0 +1,28 @@
+.container{
+    background-color: #008B8B;
+    margin: 30vh 30vw 2vh 30vw;
+    padding: 40px 10px 40px 10px ;
+    text-align: center;
+   
+    justify-content: left;
+    border: 1px solid black;
+    /* border-color: blueviolet; */
+    border-width: 5px;
+    border-radius: 10px;
+
+ 
+}
+h1{
+    color: #F0FFF0;
+}
+.btn-1,.btn-2,.btn-3{
+    background-color:white;
+    border-radius: 8px;
+    color: black;
+    font-size: 14px;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#value{
+font-size: xx-large;
+font-weight: 600;
+}
